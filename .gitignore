@@ -15,9 +15,6 @@ Thumbs.db
 *.elf
 *.hex
 
-# Ignore large media (if not using Git LFS)
-*.mp4
-
 # Optional: Ignore presentation/report backups
 *.pptx~
 *.docx~
