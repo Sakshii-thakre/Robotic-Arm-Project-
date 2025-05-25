@@ -1,0 +1,23 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup or temp files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# VS Code folder (optional, if you're using VS Code)
+.vscode/
+
+# Arduino build files
+*.elf
+*.hex
+
+# Ignore large media (if not using Git LFS)
+*.mp4
+
+# Optional: Ignore presentation/report backups
+*.pptx~
+*.docx~
